@@ -18,7 +18,7 @@ export default function Navbar() {
         <div className={styles.container}>
             <div className={styles.navbar}>
                 <Link href="/">
-                    <p>Creatures</p>
+                    <p>Home</p>
                 </Link>
                 <div className={styles.navLinks}>
                     {/* <Link href="/shop">
