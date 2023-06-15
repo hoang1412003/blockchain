@@ -44,7 +44,7 @@ class About extends Component {
             <div className="team-member-details">
               <h3 className="team-member-name">Phạm Minh Đạt</h3>
               <p className="team-member-role">Backend</p>
-              <p className="team-member-info">viết API.</p>
+              <p className="team-member-info">API.</p>
             </div>
           </div>
         </div>
