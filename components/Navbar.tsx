@@ -21,11 +21,14 @@ export default function Navbar() {
                     <p>Creatures</p>
                 </Link>
                 <div className={styles.navLinks}>
-                    <Link href="/shop">
+                    {/* <Link href="/shop">
                         <p>Shop</p>
                     </Link>
                     <Link href="/marketplace">
                         <p>Marketplace</p>
+                    </Link> */}
+                    <Link href="/about">
+                        <p>About us</p>
                     </Link>
                 </div>
                 <div>

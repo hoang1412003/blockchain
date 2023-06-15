@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background-color: black;
 }
 
 .main {
@@ -132,7 +133,7 @@
   width: 50%;
 }
 .navLinks a {
-  color: #333;
+  color: #7dd3fc;
   margin: 0px 10px;
   text-decoration: none;
   font-size: 1rem;

@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar";
 import "../styles/Home.css"; 
 import '../styles/Product.css';
 import '../styles/Footer.css';
+import '../styles/About.css'
 // This is the chain your dApp will work on.
 // Change this to the chain your app is built for.
 // You can also import additional chains from `@thirdweb-dev/chains` and pass them directly.
